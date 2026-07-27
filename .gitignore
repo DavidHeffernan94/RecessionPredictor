@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated images
+*.png
+
+
+# API keys
+.env
+FRED_API_KEY
